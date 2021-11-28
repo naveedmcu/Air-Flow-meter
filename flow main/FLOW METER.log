@@ -1,0 +1,15 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4620 -DL -O11111114 -fo32 -N"E:\Software and Electronic wilcom\PROGRAMS\AIR FLOW METER\flow main\FLOW METER.mcppi" -EH"E:\Software and Electronic wilcom\PROGRAMS\AIR FLOW METER\flow main\FLOW METER_eeprom.ihex" -SP"C:\Program Files\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Program Files\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"E:\Software and Electronic wilcom\PROGRAMS\AIR FLOW METER\flow main\" -SP"E:\Software and Electronic wilcom\PROGRAMS\FLOW METER\flow main\" -SP"E:\Software and Electronic wilcom\PROGRAMS\FLOW METER\" -SP"E:\Software and Electronic wilcom\PROGRAMS\mikroCPro\" -SP"C:\Program Files\Mikroelektronika\mikroC PRO for PIC\Packages\1313686281_external_memory\Uses\" "FLOW METER.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Sprintf.mcl" "__Lib_Button.mcl" "__Lib_ADC_A_D.mcl" "__Lib_EEPROM_1024.mcl" "__Lib_I2C_c34.mcl" "__Lib_GlcdFonts.mcl" "__Lib_Glcd.mcl"	 
+hint: 0	1139	Available RAM: 3947 [bytes], Available ROM: 65536 [bytes]	 
+diagnostics: 0	126	All files Preprocessed in 63 ms	 
+diagnostics: 0	122	Compilation Started	hard_specific.c
+hint: 34	1163	Variable 'yy' has been declared, but not used	xglcd_lib.c
+diagnostics: 610	123	Compiled Successfully	FLOW METER.c
+hint: 111	1164	Variable 'CurCharDt' has been eliminated by optimizer	FLOW METER.c
+hint: 755	1164	Variable 'T_pass' has been eliminated by optimizer	FLOW METER.c
+diagnostics: 0	127	All files Compiled in 1140 ms	 
+hint: 0	1144	Used RAM (bytes): 695 (18%)  Free RAM (bytes): 3252 (82%)	Used RAM (bytes): 695 (18%)  Free RAM (bytes): 3252 (82%)
+hint: 0	1144	Used ROM (bytes): 39000 (60%)  Free ROM (bytes): 26536 (40%)	Used ROM (bytes): 39000 (60%)  Free ROM (bytes): 26536 (40%)
+diagnostics: 0	125	Project Linked Successfully	FLOW METER.mcppi
+diagnostics: 0	128	Linked in 704 ms	 
+diagnostics: 0	129	Project 'FLOW METER.mcppi' completed: 2000 ms	 
+diagnostics: 0	103	Finished successfully: 25 Jan 2012, 12:01:20	FLOW METER.mcppi
